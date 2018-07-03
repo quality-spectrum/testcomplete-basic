@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{0619f194-ce72-4805-a993-cd2d1d8f3bfe}">
+				<Prp name="relpath" type="S" value="RegTests\RegTests.mds.tcLS"/>
+			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{0619F194-CE72-4805-A993-CD2D1D8F3BFE}"/>
+			</Node>
+			<Node name="{aedc6b38-8622-494d-9a02-bc0a93625983}">
+				<Prp name="relpath" type="S" value="SmokeTests\SmokeTests.mds.tcLS"/>
+			</Node>
+			<Node name="{c2918477-7125-4324-b507-51b3b1da0206}">
+				<Prp name="relpath" type="S" value="FrameCapture\FrameCapture.mds.tcLS"/>
+			</Node>
+			<Node name="{d4e80c67-37d6-4f63-94d9-a7a7c4a14aeb}">
+				<Prp name="relpath" type="S" value="HTML5R&amp;D\HTML5R&amp;D.mds.tcLS"/>
+			</Node>
+			<Node name="envmngrlogs">
+				<Prp name="key" type="S" value="{0AAED823-F350-4A7E-872B-55AFB904D30A}"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{5371A8F8-25D6-4995-B73F-15B85C9ED763}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>

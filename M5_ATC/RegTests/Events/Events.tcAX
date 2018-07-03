@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="2" key="{8776AB69-346F-487B-8018-7E3F65B5DA9D}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{DDED86AD-C34E-4A3C-B4FC-7551962EEE33}" type="Event control" typeId="{8A98BAC4-2A89-4883-AAE7-F07337DF59D1}">
+			<config nodeName="GeneralEvents_OnLogError" lastOpenedTLB="" generatedCLSID="{A772FCBA-4047-4072-80EE-5A6D78DF3ECE}" generatedTLBKey="{4160F23A-2C11-4312-ADB9-1FE8BEEBFBF1}" generatedEventsKey="{0DC2442F-6B0B-4AAD-B40A-56D9691E54A2}" generatedTLBDesc="TestComplete GeneralEvents_OnLogError Control - 7/7/2015 3:58:53 AM">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<handlerInfo handlerName="GeneralEvents_OnLogError_OnLogError" handlerMoniker="{EEEF283B-6351-44FF-B86D-8196C456DF45}GeneralEvents_OnLogError_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+	<folders />
+</Root>

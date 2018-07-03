@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="ActionOnObject" key="{9B34D5F0-AB1C-4245-B84B-7284C6D1EDD6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\04_Object\ActionOnObject.sj" />
+		</child>
+		<child name="Add_TagHeuer17380920" key="{548779CA-8674-47E0-B553-E530BEBB7F2B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="01_UseCases\02_Watches\01_TagHeuer\Add_TagHeuer17380920.sj" />
+		</child>
+		<child name="DateTime" key="{08613AEE-6D7C-4DFB-B748-D820B9D397A6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\03_Helping\DateTime.sj" />
+		</child>
+		<child name="Delays" key="{259D4BFA-0B3D-4264-AA15-5920B2DFBE10}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\03_Helping\Delays.sj" />
+		</child>
+		<child name="EventHandler_OnLogError" key="{EEEF283B-6351-44FF-B86D-8196C456DF45}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="05_EventHandlers\EventHandler_OnLogError.sj" />
+		</child>
+		<child name="FindObject" key="{4CD65E0A-5AAD-4981-BF33-AF5D6613DC8E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\04_Object\FindObject.sj" />
+		</child>
+		<child name="Header" key="{076B7167-7235-451C-A0CC-138E7002C5C1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\01_Generic\Header.sj" />
+		</child>
+		<child name="HomePage" key="{B0D7B1D3-B10D-47D5-8F4B-2DF49BEAE917}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\01_Generic\HomePage.sj" />
+		</child>
+		<child name="Login" key="{17A33FB6-0995-4CD3-A508-65CBEDC68409}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="01_UseCases\01_Login\Login.sj" />
+		</child>
+		<child name="LoginPage" key="{D2B16FB8-748A-4647-A47F-49CA58739B4E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\01_Generic\LoginPage.sj" />
+		</child>
+		<child name="Logs" key="{A8E436EB-8D50-458F-947D-6433B939244F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\03_Helping\Logs.sj" />
+		</child>
+		<child name="ObjectClassesHeaders" key="{0F3320B7-80B4-4DBA-9C20-25218C2D7635}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\ObjectClassesHeaders.sj" />
+		</child>
+		<child name="Projects" key="{64AE755A-EFD6-4C01-8911-EC2ED79F8920}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\01_Projects\Projects.sj" />
+		</child>
+		<child name="Screen" key="{76EA6037-96B6-4513-B18F-1887E1786141}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\02_Screen\Screen.sj" />
+		</child>
+		<child name="TagHeuer17380920" key="{38D2ADA3-95D3-41AC-B6A6-6701C7515E1E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\02_Watches\TagHeuer17380920.sj" />
+		</child>
+		<child name="TagHeuerCarrera" key="{E5ED039C-F655-42C1-B8DE-87F0FB2CF41E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\02_Watches\TagHeuerCarrera.sj" />
+		</child>
+		<child name="TagHueuer" key="{28190FFD-23F7-42AB-AE33-F15B9283C2F4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\02_Watches\TagHueuer.sj" />
+		</child>
+		<child name="Verification" key="{3D642529-843E-4FF7-8642-A5CB797397E0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="03_CommonClasses\04_Object\Verification.sj" />
+		</child>
+		<child name="Watches" key="{9B6F6473-CB93-4D18-B97B-EF1A9DF9DAC2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="04_ScreenClasses\02_Watches\Watches.sj" />
+		</child>
+	</children>
+	<folders>
+		<folder caption="01. Use Cases" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="01. Login" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{17A33FB6-0995-4CD3-A508-65CBEDC68409}" />
+					</references>
+				</folder>
+				<folder caption="02. Watches" description="A logical folder that is used to organize project items and elements." moniker="">
+					<folders>
+						<folder caption="01. TagHeuer" description="A logical folder that is used to organize project items and elements." moniker="">
+							<references>
+								<ref key="{548779CA-8674-47E0-B553-E530BEBB7F2B}" />
+							</references>
+						</folder>
+					</folders>
+				</folder>
+			</folders>
+		</folder>
+		<folder caption="02. Screen Scripts" description="A logical folder that is used to organize project items and elements." moniker="" />
+		<folder caption="03. Common Clases" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="01. Projects" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{64AE755A-EFD6-4C01-8911-EC2ED79F8920}" />
+					</references>
+				</folder>
+				<folder caption="02. Screen" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{76EA6037-96B6-4513-B18F-1887E1786141}" />
+					</references>
+				</folder>
+				<folder caption="03. Helping" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{08613AEE-6D7C-4DFB-B748-D820B9D397A6}" />
+						<ref key="{259D4BFA-0B3D-4264-AA15-5920B2DFBE10}" />
+						<ref key="{A8E436EB-8D50-458F-947D-6433B939244F}" />
+					</references>
+				</folder>
+				<folder caption="04. Object" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{9B34D5F0-AB1C-4245-B84B-7284C6D1EDD6}" />
+						<ref key="{4CD65E0A-5AAD-4981-BF33-AF5D6613DC8E}" />
+						<ref key="{3D642529-843E-4FF7-8642-A5CB797397E0}" />
+					</references>
+				</folder>
+			</folders>
+		</folder>
+		<folder caption="04. Screen Classes" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="01. Generic" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{076B7167-7235-451C-A0CC-138E7002C5C1}" />
+						<ref key="{B0D7B1D3-B10D-47D5-8F4B-2DF49BEAE917}" />
+						<ref key="{D2B16FB8-748A-4647-A47F-49CA58739B4E}" />
+					</references>
+				</folder>
+				<folder caption="02. Watches" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{38D2ADA3-95D3-41AC-B6A6-6701C7515E1E}" />
+						<ref key="{E5ED039C-F655-42C1-B8DE-87F0FB2CF41E}" />
+						<ref key="{28190FFD-23F7-42AB-AE33-F15B9283C2F4}" />
+						<ref key="{9B6F6473-CB93-4D18-B97B-EF1A9DF9DAC2}" />
+					</references>
+				</folder>
+			</folders>
+			<references>
+				<ref key="{0F3320B7-80B4-4DBA-9C20-25218C2D7635}" />
+			</references>
+		</folder>
+		<folder caption="05. Event Handlers" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{EEEF283B-6351-44FF-B86D-8196C456DF45}" />
+			</references>
+		</folder>
+	</folders>
+</Root>

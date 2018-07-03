@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{CFD5C5D7-5E60-44CE-B071-793D4F55732A}">
+	<children>
+		<child name="RegTests" key="{0619F194-CE72-4805-A993-CD2D1D8F3BFE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="RegTests\RegTests.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{68966E72-0CB9-45E1-8919-FBF809EC318B}">
+		<children>
+			<testItem key="{0619F194-CE72-4805-A993-CD2D1D8F3BFE}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{29739247-3D00-4D05-A6AB-3F75C65D7320}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{66E5E525-5BD3-4A51-B076-CF035D62750C}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
